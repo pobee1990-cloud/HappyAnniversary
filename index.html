@@ -19,6 +19,6 @@
   </style>
 </head>
 <body>
-  <p>Check your closet :)  Happy Anniversary!!!!!</p>
+  <p>Look under the futon :)  Happy Anniversary!!!!!</p>
 </body>
 </html>
