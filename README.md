@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Happy Anniversary</title>
+  <title>Check Your Closet</title>
   <style>
     body {
       display: flex;
@@ -13,12 +13,14 @@
       height: 100vh;
       margin: 0;
       background: #111;
-      color: #fff;
       font-family: Arial, sans-serif;
+    }
+    p {
+      color: #fff;
       font-size: 2rem;
+      margin-bottom: 20px;
     }
     img {
-      margin-top: 20px;
       max-width: 90%;
       height: auto;
       border-radius: 12px;
